@@ -1,7 +1,7 @@
 ### Here's some quick info about me!👋
 
 - 👨‍🎓 I'm a Software Engineering Student
-- 👨‍💻 Web & Mobile developper
+- 👨‍💻 Web & Mobile developer
 - 🎨 Graphic Designer on the side
 - 👯 I like working in teams
 - ⚽️ Football lover
