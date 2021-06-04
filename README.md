@@ -8,4 +8,4 @@
 - ⚽️ Football lover
 - 📫 You can contact me on: salimkaboura8@gmail.com
 
-<img align="center" src="https://www.esoftech.com/wp-content/uploads/2020/09/how-machine-learning-has-helped-web-development-evolve-image-800x450-2.gif" width="500" height="300"/>
+<img align="center" src="https://cdn.dribbble.com/users/4372216/screenshots/8906085/media/c36005bbe856bd475a106ecaa3b0bf69.gif" width="500" height="300"/>
